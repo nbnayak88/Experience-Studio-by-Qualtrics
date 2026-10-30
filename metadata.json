@@ -1,0 +1,6 @@
+{
+  "name": "EX Scope Studio",
+  "description": "Enterprise scoping and readiness studio for Qualtrics Employee Experience (EX) implementations alongside SAP SuccessFactors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
